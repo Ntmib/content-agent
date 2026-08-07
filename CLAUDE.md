@@ -63,7 +63,7 @@
 
 | Сигнал задачи | Что прочитать |
 |---|---|
-| Пишем сценарий / пост / идею под аудиторию | `knowledge/my-audience.md` + `knowledge/audience-voice.md` (писать их словами) |
+| Пишем сценарий / пост / идею под аудиторию | `knowledge/my-audience.md` + `knowledge/audience-voice.md` (писать их словами) + `knowledge/my-product.md`, если он заполнен - контент должен вести к продукту, а не в пустоту |
 | «О чём снять», выбор рубрики | `knowledge/my-themes.md` + `knowledge/idea-bank.md` |
 | Продажа, воронка, лид-магнит, CTA | `knowledge/my-product.md` |
 | «Что у меня заходило», выбор темы по факту | `knowledge/what-worked.md` |
